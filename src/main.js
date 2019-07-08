@@ -1,7 +1,3 @@
-// jQuery
-$(document).ready(function() {
-  // alert("hello word");
-});
 // vanilla JS
 const btn = document.getElementById("btn");
 const nav = document.getElementById("nav-links");
